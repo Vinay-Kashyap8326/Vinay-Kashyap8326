@@ -11,7 +11,6 @@
 <a href="mailto:vinay2911kashyap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
----
 
 ## About Me
 
@@ -57,18 +56,7 @@ I am a BCA student at **Khwaja Moinuddin Chishti Language University (KMCLU), Lu
 - Advanced Data Structures & Algorithms in Java
 - Full-stack web development (React, Node.js)
 - Database management with MySQL and MongoDB
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vinay-Kashyap8326&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Kashyap8326&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+- Explore Artificial Intelligence And Machine Learning
 
 ---
 
