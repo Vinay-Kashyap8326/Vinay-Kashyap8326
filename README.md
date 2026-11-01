@@ -4,7 +4,7 @@
   
 <h1>Vinay Kashyap</h1>
 
-<h3>BCA Student | Building skills in Java & DSA | Python | C | Web Development | Exploring AI & ML</h3>
+<h3>BCA Student | Java & DSA | Python | C | Web Development | Exploring AI & ML</h3>
 
 <p><i>Building strong fundamentals in software engineering, one problem and one project at a time.</i></p>
 
