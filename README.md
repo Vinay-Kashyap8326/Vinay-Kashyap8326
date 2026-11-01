@@ -60,7 +60,7 @@ I am a BCA student at **Khwaja Moinuddin Chishti Language University (KMCLU), Lu
 - Advanced Data Structures & Algorithms in Java
 - Full-stack web development (React, Node.js)
 - Database management with MySQL and MongoDB
-- Explore Artificial Intelligence And Machine Learning
+- Exploring Artificial Intelligence And Machine Learning
 
 ---
 
