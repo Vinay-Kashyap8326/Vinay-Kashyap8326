@@ -6,22 +6,19 @@
 
 *Building strong fundamentals in software engineering, one problem and one project at a time.*
 
+[
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
-(https://www.linkedin.com/in/vinay-kashyap-0948093b6)
-
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)
-
-](YOUR_PORTFOLIO_URL)
+](https://www.linkedin.com/in/vinay-kashyap-0948093b6) [
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
 
-(https://leetcode.com/u/V1nay_Kashyap/)
+](https://leetcode.com/u/V1nay_Kashyap/) [
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 
-(vinay2911kashyap@gmail.com)
+](mailto:vinay2911kashyap@gmail.com)
 
 </div>
 
