@@ -1,5 +1,7 @@
 <div align="center">
-
+  
+---
+  
 <h1>Vinay Kashyap</h1>
 
 <h3>BCA Student · Java Developer · DSA & AI/ML Enthusiast</h3>
@@ -11,6 +13,8 @@
 <a href="mailto:vinay2911kashyap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
+
+---
 
 ## About Me
 
