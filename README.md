@@ -2,7 +2,7 @@
 
 # Vinay Kashyap
 
-### BCA Student · Java Developer · DSA Enthusiast
+### BCA Student · Java Developer · DSA & AI/ML Enthusiast
 
 *Building strong fundamentals in software engineering, one problem and one project at a time.*
 
@@ -10,7 +10,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
-](YOUR_LINKEDIN_URL)
+][(https://www.linkedin.com/in/vinay-kashyap-0948093b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)
