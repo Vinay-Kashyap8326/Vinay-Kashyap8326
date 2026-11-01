@@ -26,10 +26,7 @@
 
 ## About Me
 
-I am a BCA student at **Khwaja Moinuddin Chishti Language University (KMCLU), Lucknow**, focused on
-Data Structures & Algorithms, Object-Oriented Programming, and full-stack web development. I enjoy
-turning concepts into working projects and I am currently exploring Artificial Intelligence and
-Machine Learning.
+I am a BCA student at **Khwaja Moinuddin Chishti Language University (KMCLU), Lucknow**, focused on Data Structures & Algorithms, Object-Oriented Programming, and full-stack web development. I enjoy turning concepts into working projects and I am currently exploring Artificial Intelligence and Machine Learning.
 
 - 🎓 **Education:** BCA, expected graduation 2028
 - ☕ **Core Interest:** Java and Object-Oriented Programming
@@ -44,62 +41,15 @@ Machine Learning.
 
 **Languages**
 
-
-
-![Java](https://skillicons.dev/icons?i=java)
-
-
-
-
-![Python](https://skillicons.dev/icons?i=python)
-
-
-
-
-![C](https://skillicons.dev/icons?i=c)
-
-
-
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-
-
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /> <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" /> <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
 
 **Web Development**
 
-
-
-![HTML5](https://skillicons.dev/icons?i=html)
-
-
-
-
-![CSS3](https://skillicons.dev/icons?i=css)
-
-
-
-
-![React](https://skillicons.dev/icons?i=react)
-
-
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
 
 **Tools & Platforms**
 
-
-
-![Git](https://skillicons.dev/icons?i=git)
-
-
-
-
-![GitHub](https://skillicons.dev/icons?i=github)
-
-
-
-
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
-
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
 
 ---
 
@@ -107,9 +57,9 @@ Machine Learning.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Chess Game](YOUR_REPO_LINK)** | Browser-based chess board with move logic and an interactive UI | HTML, CSS, JavaScript |
-| **[College Finder](YOUR_REPO_LINK)** | Search and filter colleges by course, location and fees | Web Development |
-| **[Expense Tracker](YOUR_REPO_LINK)** | Track and manage daily expenses with a clean Flask interface | Python, Flask |
+| **Chess Game** | Browser-based chess board with move logic and an interactive UI | HTML, CSS, JavaScript |
+| **College Finder** | Search and filter colleges by course, location and fees | Web Development |
+| **Expense Tracker** | Track and manage daily expenses with a clean Flask interface | Python, Flask |
 
 ---
 
@@ -125,17 +75,9 @@ Machine Learning.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Vinay-Kashyap8326&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Kashyap8326&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
