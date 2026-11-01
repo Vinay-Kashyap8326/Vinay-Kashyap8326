@@ -1,27 +1,16 @@
 <div align="center">
 
-# Vinay Kashyap
+<h1>Vinay Kashyap</h1>
 
-### BCA Student · Java Developer · DSA & AI/ML Enthusiast
+<h3>BCA Student · Java Developer · DSA & AI/ML Enthusiast</h3>
 
-*Building strong fundamentals in software engineering, one problem and one project at a time.*
+<p><i>Building strong fundamentals in software engineering, one problem and one project at a time.</i></p>
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/vinay-kashyap-0948093b6) [
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
-
-](https://leetcode.com/u/V1nay_Kashyap/) [
-
-![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
-
-](mailto:vinay2911kashyap@gmail.com)
+<a href="https://www.linkedin.com/in/vinay-kashyap-0948093b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/V1nay_Kashyap/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:vinay2911kashyap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
 ---
 
 ## About Me
