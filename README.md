@@ -8,6 +8,7 @@
 
 <p><i>Building strong fundamentals in software engineering, one problem and one project at a time.</i></p>
 
+<a href="https://vinay-kashyap8326.github.io/Minor_Projects/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vinay-kashyap-0948093b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/V1nay_Kashyap/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:vinay2911kashyap@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -47,11 +48,12 @@ I am a BCA student at **Khwaja Moinuddin Chishti Language University (KMCLU), Lu
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Chess Game** | Browser-based chess board with move logic and an interactive UI | HTML, CSS, JavaScript |
-| **College Finder** | Search and filter colleges by course, location and fees | Web Development |
-| **Expense Tracker** | Track and manage daily expenses with a clean Flask interface | Python, Flask |
+| Project | Description | Live Demo | Code |
+|---------|-------------|-----------|------|
+| **Chess Game** | Browser-based chess board with move logic and an interactive UI | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Chess_Game/) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Chess_Game) |
+| **Guess Number Game** | Number guessing game with a web interface | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Guess_number_Web_Page.html) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/blob/main/Guess_number_Web_Page.html) |
+| **Tic Tac Toe** | Two-player Tic Tac Toe game | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Tic_Tac_Toe/) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Tic_Tac_Toe) |
+| **Calculator** | Calculator application with core arithmetic operations | — | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Calculator) |
 
 ---
 
