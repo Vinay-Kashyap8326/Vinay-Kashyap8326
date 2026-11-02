@@ -53,7 +53,7 @@ I am a BCA student at **Khwaja Moinuddin Chishti Language University (KMCLU), Lu
 | **Chess Game** | Browser-based chess board with move logic and an interactive UI | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Chess_Game/) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Chess_Game) |
 | **Guess Number Game** | Number guessing game with a web interface | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Guess_number_Web_Page.html) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/blob/main/Guess_number_Web_Page.html) |
 | **Tic Tac Toe** | Two-player Tic Tac Toe game | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Tic_Tac_Toe/) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Tic_Tac_Toe) |
-| **Calculator** | Calculator application with core arithmetic operations | — | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Calculator) |
+| **Calculator** | Calculator application with core arithmetic operations | [Open](https://vinay-kashyap8326.github.io/Minor_Projects/Calculator/) | [View](https://github.com/Vinay-Kashyap8326/Minor_Projects/tree/main/Calculator) |
 
 ---
 
